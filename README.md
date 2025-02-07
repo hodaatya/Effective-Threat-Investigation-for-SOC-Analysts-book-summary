@@ -1,0 +1,1 @@
+# Effective-Threat-Investigation-for-SOC-Analysts-book-summary
