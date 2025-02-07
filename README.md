@@ -1,4 +1,4 @@
-Summary of "Effective Threat Investigation for SOC Analysts"
+#Summary of "Effective Threat Investigation for SOC Analysts"
 This repository contains a summary of "Effective Threat Investigation for SOC Analysts" by Mostafa Yahia. This essential guide offers deep insights into detecting and investigating cyber threats by analyzing logs from various sources, such as:
 
 Email security: Understanding and analyzing email attacks and security logs.
